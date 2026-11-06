@@ -1,0 +1,14 @@
+# Python artifacts
+__pycache__/
+*.pyc
+venv/
+
+# Local database
+*.db
+
+# Environment variables
+.env
+
+# IDE / Editor files
+.vscode/
+.idea/
